@@ -1,0 +1,28 @@
+.list-item{
+    list-style-type:none;
+    border:1px solid #b5b7c4;
+    border-radius:8px;
+    padding:10px;
+    margin:10px;
+    width:30%;
+}
+.title{
+    color:#171f46;
+    font-family:"Roboto";
+    font-size:16px;
+   
+}
+.date{
+    color:#b5b7c4;
+    margin:0px;
+
+}
+.star-btn{
+    border:none;
+    background-color:transparent;
+}
+.title-star-container{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
